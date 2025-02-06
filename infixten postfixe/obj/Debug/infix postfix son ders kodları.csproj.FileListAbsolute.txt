@@ -1,0 +1,7 @@
+C:\Users\Muhammed Sencer\OneDrive\Masaüstü\ders3(a)\Veri yapıları\final\3.hafta\infixten postfixe\bin\Debug\infix postfix son ders kodları.exe.config
+C:\Users\Muhammed Sencer\OneDrive\Masaüstü\ders3(a)\Veri yapıları\final\3.hafta\infixten postfixe\bin\Debug\infix postfix son ders kodları.exe
+C:\Users\Muhammed Sencer\OneDrive\Masaüstü\ders3(a)\Veri yapıları\final\3.hafta\infixten postfixe\bin\Debug\infix postfix son ders kodları.pdb
+C:\Users\Muhammed Sencer\OneDrive\Masaüstü\ders3(a)\Veri yapıları\final\3.hafta\infixten postfixe\obj\Debug\infix postfix son ders kodları.csproj.AssemblyReference.cache
+C:\Users\Muhammed Sencer\OneDrive\Masaüstü\ders3(a)\Veri yapıları\final\3.hafta\infixten postfixe\obj\Debug\infix postfix son ders kodları.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed Sencer\OneDrive\Masaüstü\ders3(a)\Veri yapıları\final\3.hafta\infixten postfixe\obj\Debug\infix postfix son ders kodları.exe
+C:\Users\Muhammed Sencer\OneDrive\Masaüstü\ders3(a)\Veri yapıları\final\3.hafta\infixten postfixe\obj\Debug\infix postfix son ders kodları.pdb
